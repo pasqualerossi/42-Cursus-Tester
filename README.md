@@ -16,7 +16,9 @@ Step by Step Instructions on how to run this Tester.
 
 All of the following steps below are in Shell. 
 
-:one: Copy and paste the following in shell -
+<br>
+
+1. Copy and paste the following in shell -
 
 ```
 git clone https://github.com/Abaker-Hype/42-Cursus-Tester.git
@@ -24,35 +26,30 @@ git clone https://github.com/Abaker-Hype/42-Cursus-Tester.git
 
 Note: make sure to git clone this tester outside of your Libft/Get_Next_Line/Printf Folder, not in it.
 
+<br>
 
-:two: ``cd`` into the 42-Cursus-Tester and type in the following in shell - 
+2. ``cd`` into the 42-Cursus-Tester and type in the following in shell - 
 
 ```
 vim script.sh
 ```
 
+<br>
 
-:three: In the vim script.h file, under the #Libs locations (3rd Row Down from the top of the script.h file), change the path description to your own Libft, Get_Next_Line or Printf folder.
+3. In the vim script.h file, under the #Libs locations (3rd Row Down from the top of the script.h file), change the path description to your own Libft, Get_Next_Line or Printf folder.
 
+<br>
 
-:four: Then exit vim (``wq``) and type in the shell the following command -
-
-```make <the project name that your working on>```  to run the 42-Cursus-Tester. 
-
-eg. ```make printf```
-
-To see only the required functions and not the bonus, type in the following - 
+4. Then exit vim (``wq``) and type in the shell the following command -
 
 ```
-make <the project name that your working on> Manditory
-``` 
+make <the project name that your working on>
+```  
+to run the 42-Cursus-Tester, eg. ```make printf```
 
-to run the 42-Cursus-Tester without the bonus.
+<br>
 
-eg. ```make printf Manditory```
-
-
-:five: Check your results and good luck!
+5. Check your results and good luck!
 
 If you get a KO or S in this tester, then write the following to find out where exactly in the function/program that is occuring:
 
