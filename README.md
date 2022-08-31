@@ -1,5 +1,5 @@
 # 42-Cursus-Tester
-Built By Aidan Baker
+Built By [Aidan Baker](https://github.com/Abaker-Hype). 
 
 Link to the tester - https://github.com/Abaker-Hype/42-Cursus-Tester
 
